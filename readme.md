@@ -1,4 +1,4 @@
-<h1 align="center">Curso Javascript Funcional e reativo</h1>
+<h1 align="center">Curso Javascript Funcional e Reativo</h1>
 <h2 align="center">Pense como um Dev JS!</h2>
 
 <div align="center">
@@ -6,5 +6,8 @@
 </div>
 
 <br />
-:arrow_right: <p>Esse é um repositório dos arquivos gerados durante o curso ministrado pelo professor leonardo Leitão da C0d3r.</p>
+
+:arrow_right: Início
+
+<p>Esse é um repositório dos arquivos gerados durante o curso ministrado pelo professor leonardo Leitão da C0d3r.</p>
 
