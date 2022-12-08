@@ -7,6 +7,7 @@ numeros.map((v)=>{
     console.log(v*2)
 });
 
+
 const carrinho = [
     { nome: 'Caneta', qtde: 10, preco: 7.99 },
     { nome: 'Impressora', qtde: 0, preco: 649.50 },
